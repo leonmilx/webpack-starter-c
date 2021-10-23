@@ -8,7 +8,7 @@ Recuerden construir los modulos de Node
 
 ````
 
-npm instañ 
+npm install
 
 ````
 Y para construir el build, recuerden :
